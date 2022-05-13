@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "content": "Mercedes",
+        "category": "Car",
+        "isActive": false
+    },
+    {
+        "id":"2",
+        "content": "Tek Katlı Ev",
+        "category": "Home",
+        "isActive": true
+    },
+    {
+        "id":"3",
+        "content": "Renault",
+        "category": "Car",
+        "isActive": true
+    },
+    {
+        "id":"4",
+        "content": "İki Katlı Ev",
+        "category": "Home",
+        "isActive": false
+    },
+    {
+        "id":"4",
+        "content": "Müstakil Ev",
+        "category": "Home",
+        "isActive": false
+    },
+    {
+        "id":"5",
+        "content": "Scodâ",
+        "category": "Car",
+        "isActive": false
+    }
+]
